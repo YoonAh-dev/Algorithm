@@ -12,4 +12,5 @@
 |21/07/25|`Basic`| `Leetcode` ||[Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)| Array ||[💎](https://velog.io/@yoonah-dev/Leetcode-Rotate-Array)|
 |21/07/26|`Basic`| `Leetcode` ||[Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/)| Array ||[💎](https://velog.io/@yoonah-dev/Leetcode-Contains-Duplicate)|
 |21/08/01|`Basic`| `Leetcode` ||[Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)| Array ||[💎](https://velog.io/@yoonah-dev/Leetcode-Single-Number)|
+|21/08/03|`Basic`| `Leetcode` ||[Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674)| Array ||[💎](https://velog.io/@yoonah-dev/Leetcode-Intersection-of-Two-Arrays-II)|
 
