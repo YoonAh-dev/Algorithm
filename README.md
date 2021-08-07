@@ -15,4 +15,4 @@
 |21/08/03|`Basic`| `Leetcode` ||[Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674)| Array ||[💎](https://velog.io/@yoonah-dev/Leetcode-Intersection-of-Two-Arrays-II)|
 |21/08/05|`Basic`| `Leetcode` ||[Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559)| Array ||[💎](https://velog.io/@yoonah-dev/Leetcode-Plus-One)|
 |21/08/05|`Basic`| `Leetcode` ||[Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567)| Array ||[💎](https://velog.io/@yoonah-dev/Leetcode-Move-Zeroes)|
-
+|21/08/07|`Basic`| `Leetcode` ||[Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)| Array ||[💎](https://velog.io/@yoonah-dev/Leetcode-Two-Sum)|
