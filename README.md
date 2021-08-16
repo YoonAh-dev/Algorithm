@@ -17,3 +17,6 @@
 |21/08/05|`Basic`| `Leetcode` ||[Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567)| Array ||[💎](https://velog.io/@yoonah-dev/Leetcode-Move-Zeroes)|
 |21/08/07|`Basic`| `Leetcode` ||[Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/)| Array ||[💎](https://velog.io/@yoonah-dev/Leetcode-Two-Sum)|
 |21/08/12|`Basic`| `Leetcode` ||[Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/)| Array ||[💎](https://velog.io/@yoonah-dev/Leetcode-Valid-Sudoku)|
+|21/08/16|`Basic`| `Leetcode` ||[Rotate image](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/)| Array ||[💎](https://velog.io/@yoonah-dev/Leetcode-Rotate-image)|
+
+
