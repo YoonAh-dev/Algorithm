@@ -21,3 +21,4 @@
 |21/08/17|`Basic`| `Leetcode` ||[Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/)| String ||[💎](https://velog.io/@yoonah-dev/Leetcode-Reverse-String)|
 |21/08/17|`Medium`| `Leetcode` ||[3Sum](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/776/)| Array and Strings ||[💎](https://velog.io/@yoonah-dev/Leetcode-3Sum)|
 |21/08/21|`Basic`| `Leetcode` ||[Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/)| String ||[💎](https://velog.io/@yoonah-dev/Leetcode-Reverse-Integer)|
+|21/08/21|`Medium`| `Leetcode` ||[Set Matrix Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/777/)| Array and Strings ||[💎](https://velog.io/@yoonah-dev/Leetcode-Set-Matrix-Zeroes)|
