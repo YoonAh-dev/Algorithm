@@ -1,9 +1,26 @@
-### 🍋 게으름뱅이의 Swift 알고리즘 마스터 도전기
+# 🍋 게으름뱅이의 Swift 알고리즘 마스터 도전기
 
-<br/>
+> 지금까지 공부했던 내용을 정리합니다.
 
+<details>
+<summary>❏ Sort</summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
+| content | github | notion |
+|:--:|:--:|:--:|
+|선택 정렬(Selection sort) | [SelectionSort.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Utility/Sort/SelectionSort.swift) | <a href="https://yoonah-dev.oopy.io/e6339889-a0a1-40aa-9079-d4272cce11dd" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>  |
+</details>
+
+<br/><br>
+----
+
+> 지금까지 풀었던 문제들을 저장합니다. 
+
+<details>
+<summary>🟡 BAEKJOON</summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
 ## 🟡 BAEKJOON
-
 |날짜          |Level      | 문제번호 | 제목     |분류 | git | notion |
 |-----------|:---------:|:-------------:|---|---|:----:|:----:|
 | 22/12/21 | `Bronze V` | [`1330`](https://www.acmicpc.net/problem/1330) | 두 수 비교하기| |[🔍](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Baekjoon/%EC%A1%B0%EA%B1%B4%EB%AC%B8/1330.%20%EB%91%90%20%EC%88%98%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.swift) | |
@@ -63,6 +80,15 @@
 | 23/02/10 | `Bronze I` | [`1546`](https://www.acmicpc.net/problem/1546) | 평균  | |[🔍](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Baekjoon/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/1546.%20%ED%8F%89%EA%B7%A0.swift) | |
 | 23/02/10 | `Bronze II` | [`8958`](https://www.acmicpc.net/problem/8958) | OX퀴즈  | |[🔍](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Baekjoon/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/8958.%20OX%ED%80%B4%EC%A6%88.swift) | |
 | 23/02/10 | `Bronze I` | [`4344`](https://www.acmicpc.net/problem/4344) | 평균은 넘겠지  | |[🔍](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Baekjoon/1%EC%B0%A8%EC%9B%90%20%EB%B0%B0%EC%97%B4/4344.%20%ED%8F%89%EA%B7%A0%EC%9D%80%20%EB%84%98%EA%B2%A0%EC%A7%80.swift) | |
+</details>
+
+
+
+<details>
+<summary>🟡 LEETCODE</summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
+
 ## 🟡 LEETCODE
 |날짜          |Level      |제목     |분류 |velog |
 |---------------|---------|-------------|---|:----:|
@@ -83,3 +109,4 @@
 |21/08/21|`Medium`|[Set Matrix Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/777/)| Array and Strings |[📓](https://velog.io/@yoonah-dev/Leetcode-Set-Matrix-Zeroes)|
 |21/08/22|`Basic`|[First Unique Character in a String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)| String |[📓](https://velog.io/@yoonah-dev/Leetcode-First-Unique-Character-in-a-String)|
 |21/08/22|`Medium`|[Group Anagrams](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/778/)| Array and Strings |[📓](https://velog.io/@yoonah-dev/Leetcode-Group-Anagrams)|
+</details>
