@@ -9,6 +9,12 @@ import Foundation
 
 var realCount = 0
 
+func swap(a: Int, b: Int, arr: inout [Int]) {
+    let temp = arr[a]
+    arr[a] = arr[b]
+    arr[b] = temp
+}
+
 func quicksort<T: Comparable>(_ a: [T]) -> [T] {
     guard a.count > 1 else { return a }
 

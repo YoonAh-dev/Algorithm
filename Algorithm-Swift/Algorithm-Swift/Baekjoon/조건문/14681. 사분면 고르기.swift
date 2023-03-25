@@ -20,6 +20,6 @@ func calculateQuadrant(of point: CGPoint) -> Int {
     }
 }
 
-let xPoint = Int(readLine()!)!
-let yPoint = Int(readLine()!)!
-let point = CGPoint(x: xPoint, y: yPoint)
+//let xPoint = Int(readLine()!)!
+//let yPoint = Int(readLine()!)!
+//let point = CGPoint(x: xPoint, y: yPoint)
