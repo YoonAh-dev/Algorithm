@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B50CEEA52A6D310100CF1C76 /* 01_1부터N까지M의배수합.swift in Sources */ = {isa = PBXBuildFile; fileRef = B50CEEA42A6D310100CF1C76 /* 01_1부터N까지M의배수합.swift */; };
 		B544BB832991E43500485E31 /* 4673. 셀프 넘버.swift in Sources */ = {isa = PBXBuildFile; fileRef = B544BB822991E43500485E31 /* 4673. 셀프 넘버.swift */; };
 		B544BB852991EA1A00485E31 /* 1065. 한수.swift in Sources */ = {isa = PBXBuildFile; fileRef = B544BB842991EA1A00485E31 /* 1065. 한수.swift */; };
 		B550993D2959C1EB00B06316 /* 10818. 최소, 최대.swift in Sources */ = {isa = PBXBuildFile; fileRef = B550993C2959C1EB00B06316 /* 10818. 최소, 최대.swift */; };
@@ -97,6 +98,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B50CEEA42A6D310100CF1C76 /* 01_1부터N까지M의배수합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "01_1부터N까지M의배수합.swift"; sourceTree = "<group>"; };
 		B544BB822991E43500485E31 /* 4673. 셀프 넘버.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4673. 셀프 넘버.swift"; sourceTree = "<group>"; };
 		B544BB842991EA1A00485E31 /* 1065. 한수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1065. 한수.swift"; sourceTree = "<group>"; };
 		B550993C2959C1EB00B06316 /* 10818. 최소, 최대.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10818. 최소, 최대.swift"; sourceTree = "<group>"; };
@@ -186,6 +188,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B50CEEA32A6D30D300CF1C76 /* Inflearn */ = {
+			isa = PBXGroup;
+			children = (
+				B50CEEA42A6D310100CF1C76 /* 01_1부터N까지M의배수합.swift */,
+			);
+			path = Inflearn;
+			sourceTree = "<group>";
+		};
 		B544BB812991E42000485E31 /* 함수 */ = {
 			isa = PBXGroup;
 			children = (
@@ -290,6 +300,7 @@
 				B5AE11C429CEEA3000F86FF8 /* Utility */,
 				B5AE11C629CEEABF00F86FF8 /* Type */,
 				B5C96CB02953269F00AC13E2 /* Data Structure */,
+				B50CEEA32A6D30D300CF1C76 /* Inflearn */,
 				B5C96C932952B8A300AC13E2 /* Programmers */,
 				B5C96C922952B89900AC13E2 /* Baekjoon */,
 				B5F5166E2955CE3100425BA8 /* 코딩테스트 */,
@@ -511,6 +522,7 @@
 				B5FD151329948E8D008342A9 /* 2566. 최댓값.swift in Sources */,
 				B5F5166D2955CD2600425BA8 /* 10807. 개수 세기.swift in Sources */,
 				B5F51660295426C200425BA8 /* 10951. A+B-4.swift in Sources */,
+				B50CEEA52A6D310100CF1C76 /* 01_1부터N까지M의배수합.swift in Sources */,
 				B5C96C9E2952F4F900AC13E2 /* 14681. 사분면 고르기.swift in Sources */,
 				B5C96CB42953352700AC13E2 /* 11021. A+B-7.swift in Sources */,
 				B5F516682954451800425BA8 /* BFS.swift in Sources */,
