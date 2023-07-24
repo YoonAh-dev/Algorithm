@@ -16,7 +16,17 @@
 <br/><br>
 ----
 
-> 지금까지 풀었던 문제들을 저장합니다. 
+> 지금까지 풀었던 문제들을 저장합니다.
+
+<details>
+<summary>🟡 INFLEARN</summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
+## 🟡 INFLEARN
+|날짜         | 문제번호 | 제목     | git  |
+|-----------|:-------------:|---|---|
+| 23/07/23 | 01 | 1부터 N까지의 배수합 |[1부터 N까지의 배수합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/01_1%EB%B6%80%ED%84%B0N%EA%B9%8C%EC%A7%80M%EC%9D%98%EB%B0%B0%EC%88%98%ED%95%A9.swift)<br>[1부터 N까지의 배수합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/01_1%EB%B6%80%ED%84%B0N%EA%B9%8C%EC%A7%80%EC%9D%98%EB%B0%B0%EC%88%98%ED%95%A9.cpp)|
+</details>
 
 <details>
 <summary>🟡 BAEKJOON</summary>
