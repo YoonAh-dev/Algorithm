@@ -14,4 +14,5 @@ int main(int argc, char** argv) {
     }
 
     cout << sum << endl;
+    return 0;
 }
