@@ -21,7 +21,7 @@ int main() {
 
     cin >> str;
 
-    for(int i=0; i<sizeof(str)/sizeof(int); i++) {
+    for(int i=0; i<sizeof(str)/sizeof(char); i++) {
         if(str[i] >= 48 && str[i] <= 57) {
             result[index++] = str[i];
         }
