@@ -17,7 +17,7 @@ int main() {
     char str[50], result[50];
     int index = 0;
 
-    freopen("input.txt", "rt", stdin);
+    // freopen("input.txt", "rt", stdin);
 
     cin >> str;
 
