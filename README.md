@@ -26,6 +26,12 @@
 |날짜         | 문제번호 | 제목     | git  |
 |-----------|:-------------:|---|---|
 | 23/07/23 | 01 | 1부터 N까지의 배수합 |[1부터 N까지의 배수합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/01_1%EB%B6%80%ED%84%B0N%EA%B9%8C%EC%A7%80M%EC%9D%98%EB%B0%B0%EC%88%98%ED%95%A9.swift)<br>[1부터 N까지의 배수합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/01_1%EB%B6%80%ED%84%B0N%EA%B9%8C%EC%A7%80%EC%9D%98%EB%B0%B0%EC%88%98%ED%95%A9.cpp)|
+| 23/07/24 | 02 | 자연수의 합 |[자연수의 합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/02_%EC%9E%90%EC%97%B0%EC%88%98%EC%9D%98%ED%95%A9.swift)<br>[자연수의 합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/02_%EC%9E%90%EC%97%B0%EC%88%98%EC%9D%98%ED%95%A9.cpp)|
+| 23/07/24 | 03 | 진약수의 합 |[진약수의 합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/03_%EC%A7%84%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9.swift)<br>[진약수의 합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/03_%EC%A7%84%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9.cpp)|
+| 23/07/25 | 04 | 나이 차이 |[나이 차이.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/04_%EB%82%98%EC%9D%B4%EC%B0%A8%EC%9D%B4.swift)<br>[나이 차이.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/04_%EB%82%98%EC%9D%B4%EC%B0%A8%EC%9D%B4.cpp)|
+| 23/07/25 | 05 | 나이 계산 |[나이 계산.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/05_%EB%82%98%EC%9D%B4%EA%B3%84%EC%82%B0.swift)<br>[나이 계산.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/05_%EB%82%98%EC%9D%B4%EA%B3%84%EC%82%B0.cpp)|
+
+
 </details>
 
 <details>
