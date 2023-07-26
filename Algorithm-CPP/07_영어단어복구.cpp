@@ -12,7 +12,7 @@ char transformToLower(char letter) {
 string eraseWhiteSpace(string str) {
     string result = "";
 
-    for(int i=0; i<sizeof(str)/sizeof(char); i++) {
+    for(int i=0; i<str.length(); i++) {
         if(str[i] != ' ') {
             char lowerCase = transformToLower(str[i]);
             result += lowerCase;
@@ -32,4 +32,6 @@ int main() {
     str = eraseWhiteSpace(str);
 
     cout << str << endl;
+    
+    return 0;
 }
