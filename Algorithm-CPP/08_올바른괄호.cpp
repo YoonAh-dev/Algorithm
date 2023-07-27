@@ -12,7 +12,10 @@ int main() {
         if(str[i] == '(') {
             stack.push(str[i]);
         } else {
-            if(stack.top() == '(') {
+            if(stack.empty()) {
+                cout << "NO" << endl;
+                return 0;
+            } else {
                 stack.pop();
             }
         }
