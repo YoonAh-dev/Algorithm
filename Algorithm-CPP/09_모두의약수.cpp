@@ -1,24 +1,26 @@
 #include <stdio.h>
 using namespace std;
 
-int calculateDivisorCount(int num) {
-    int count = 0;
-
-    for(int i = 1; i<=num; i++) {
-        if (num % i == 0) count++;
-    }
-
-    return count;
-}
-
 int main() {
     int num;
-    
     scanf("%d", &num);
 
-    for(int i = 1; i<=num; i++) {
-        int count = calculateDivisorCount(i);
-        printf("%d ", count);
+    int count[num];
+
+    for(int i = 0; i<num; i++) {
+        count[i] = 0;
+    }
+
+    for(int i = 0; i<num; i++) {
+        for (int j = i; j<num; j++) {
+            if((j + 1) % (i + 1) == 0) {
+                count[j]++;
+            }
+        }
+    }
+
+    for(int i = 0; i<num; i++) {
+        printf("%d ", count[i]);
     }
 
     return 0;
