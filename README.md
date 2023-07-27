@@ -30,6 +30,8 @@
 | 23/07/24 | 03 | 진약수의 합 |[진약수의 합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/03_%EC%A7%84%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9.swift)<br>[진약수의 합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/03_%EC%A7%84%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9.cpp)|
 | 23/07/25 | 04 | 나이 차이 |[나이 차이.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/04_%EB%82%98%EC%9D%B4%EC%B0%A8%EC%9D%B4.swift)<br>[나이 차이.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/04_%EB%82%98%EC%9D%B4%EC%B0%A8%EC%9D%B4.cpp)|
 | 23/07/25 | 05 | 나이 계산 |[나이 계산.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/05_%EB%82%98%EC%9D%B4%EA%B3%84%EC%82%B0.swift)<br>[나이 계산.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/05_%EB%82%98%EC%9D%B4%EA%B3%84%EC%82%B0.cpp)|
+| 23/07/26 | 06 | 숫자만 추출 |[숫자만 추출.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/06_%EC%88%AB%EC%9E%90%EB%A7%8C%EC%B6%94%EC%B6%9C.swift)<br>[숫자만 추출.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/06_%EC%88%AB%EC%9E%90%EB%A7%8C%EC%B6%94%EC%B6%9C.cpp)|
+| 23/07/26 | 07 | 영어 단어 복구 |[영어 단어 복구.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/07_%EC%98%81%EC%96%B4%EB%8B%A8%EC%96%B4%EB%B3%B5%EA%B5%AC.swift)<br>[영어 단어 복구.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/07_%EC%98%81%EC%96%B4%EB%8B%A8%EC%96%B4%EB%B3%B5%EA%B5%AC.cpp)|
 
 
 </details>
