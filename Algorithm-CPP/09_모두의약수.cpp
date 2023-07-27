@@ -1,4 +1,4 @@
-#include <iostream>
+#include <stdio.h>
 using namespace std;
 
 int calculateDivisorCount(int num) {
@@ -13,11 +13,12 @@ int calculateDivisorCount(int num) {
 
 int main() {
     int num;
-    cin >> num;
+    
+    scanf("%d", &num);
 
     for(int i = 1; i<=num; i++) {
         int count = calculateDivisorCount(i);
-        cout << count << ' ';
+        printf("%d ", count);
     }
 
     return 0;
