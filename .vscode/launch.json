@@ -12,6 +12,18 @@
             "externalConsole": false,
             "MIMode": "lldb",
             "preLaunchTask": "C/C++: g++ 활성 파일 빌드"
+        },
+        {
+            "name": "(lldb) 시작",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "프로그램 이름 입력(예: ${workspaceFolder}/a.out)",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb"
         }
     ],
     "version": "2.0.0"

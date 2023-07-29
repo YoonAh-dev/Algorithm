@@ -2,6 +2,7 @@
 #include <cmath>
 using namespace std;
 
+// 12_숫자의 총 개수(large) 문제도 해결 가능
 int calculateDigit(int n) {
     int cnt = 0;
 
