@@ -3,17 +3,17 @@
 using namespace std;
 
 int isPrime(int x) {
-    if(x <= 2) { return 1; }
+    if(x <= 1) { return 0; }
 
     int cnt = 0;
-    for(int i=2; i<(x/2 + 1); i++) {
+    for(int i=1; i<(x/2 + 1); i++) {
         if(x % i == 0) {
             cnt++;
         }
     }
 
-    if(cnt > 0) return 0;
-    else return 1;
+    if(cnt <= 1) return 1;
+    else return 0;
 }
 
 int reverse(int x) {
