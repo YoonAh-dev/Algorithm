@@ -34,6 +34,8 @@
 | 23/07/26 | 07 | 영어 단어 복구 |[영어 단어 복구.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/07_%EC%98%81%EC%96%B4%EB%8B%A8%EC%96%B4%EB%B3%B5%EA%B5%AC.swift)<br>[영어 단어 복구.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/07_%EC%98%81%EC%96%B4%EB%8B%A8%EC%96%B4%EB%B3%B5%EA%B5%AC.cpp)|
 | 23/07/27 | 08 | 올바른 괄호 |[올바른 괄호.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/08_%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8.swift)<br>[올바른 괄호.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/08_%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8.cpp)|
 | 23/07/27 | 09 | 모두의 약수 |[모두의 약수.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/09_%EB%AA%A8%EB%91%90%EC%9D%98%EC%95%BD%EC%88%98.swift)<br>[모두의 약수.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/09_%EB%AA%A8%EB%91%90%EC%9D%98%EC%95%BD%EC%88%98.cpp)|
+| 23/07/28 | 10 | 자릿수의 합 |[자릿수의 합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/10_%EC%9E%90%EB%A6%BF%EC%88%98%EC%9D%98%ED%95%A9.swift)<br>[자릿수의 합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/10_%EC%9E%90%EB%A6%BF%EC%88%98%EC%9D%98%ED%95%A9.cpp)|
+| 23/07/28 | 11 | 숫자의 총 개수 |[숫자의 총 개수.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/11_%EC%88%AB%EC%9E%90%EC%9D%98%EC%B4%9D%EA%B0%9C%EC%88%98.swift)<br>[숫자의 총 개수.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/11_%EC%88%AB%EC%9E%90%EC%9D%98%EC%B4%9D%EA%B0%9C%EC%88%98.cpp)|
 
 
 </details>
