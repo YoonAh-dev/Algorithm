@@ -40,6 +40,8 @@
 | 23/07/29 | 14 | 뒤집은 소수 |[뒤집은 소수.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/14_%EB%92%A4%EC%A7%91%EC%9D%80%EC%86%8C%EC%88%98.swift)<br>[뒤집은 소수.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/14_%EB%92%A4%EC%A7%91%EC%9D%80%EC%86%8C%EC%88%98.cpp)|
 | 23/07/30 | 15 | 소수의 개수 |[소수의 개수.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/15_%EC%86%8C%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98.swift)<br>[소수의 개수.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/15_%EC%86%8C%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98.cpp)|
 | 23/07/30 | 16 | Anagram |[Anagram.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/16_Anagram.swift)<br>[Anagram.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/16_Anagram.cpp)|
+| 23/07/31 | 17 | 선생님 퀴즈 |[선생님 퀴즈.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/17_%EC%84%A0%EC%83%9D%EB%8B%98%ED%80%B4%EC%A6%88.swift)<br>[선생님 퀴즈.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/17_%EC%84%A0%EC%83%9D%EB%8B%98%ED%80%B4%EC%A6%88.cpp)|
+| 23/07/31 | 18 | 층간소음 |[층간소음.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/18_%EC%B8%B5%EA%B0%84%EC%86%8C%EC%9D%8C.swift)<br>[층간소음.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/18_%EC%B8%B5%EA%B0%84%EC%86%8C%EC%9D%8C.cpp)|
 
 
 </details>
