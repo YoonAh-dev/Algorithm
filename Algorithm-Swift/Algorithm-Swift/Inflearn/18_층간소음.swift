@@ -24,5 +24,9 @@ func solution18() {
         }
     }
 
-    print(max)
+    if max == 0 {
+        print("-1")
+    } else {
+        print(max)
+    }
 }

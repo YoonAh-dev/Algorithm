@@ -23,7 +23,8 @@ int main() {
         }
     }
 
-    cout << max << endl;
+    if(max == 0) cout << "-1" << endl;
+    else cout << max << endl;
 
     return 0;
 }
