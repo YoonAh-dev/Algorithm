@@ -42,7 +42,8 @@
 | 23/07/30 | 16 | Anagram |[Anagram.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/16_Anagram.swift)<br>[Anagram.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/16_Anagram.cpp)|
 | 23/07/31 | 17 | 선생님 퀴즈 |[선생님 퀴즈.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/17_%EC%84%A0%EC%83%9D%EB%8B%98%ED%80%B4%EC%A6%88.swift)<br>[선생님 퀴즈.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/17_%EC%84%A0%EC%83%9D%EB%8B%98%ED%80%B4%EC%A6%88.cpp)|
 | 23/07/31 | 18 | 층간소음 |[층간소음.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/18_%EC%B8%B5%EA%B0%84%EC%86%8C%EC%9D%8C.swift)<br>[층간소음.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/18_%EC%B8%B5%EA%B0%84%EC%86%8C%EC%9D%8C.cpp)|
-
+| 23/08/01 | 19 | 분노 유발자 |[분노 유발자.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/19_%EB%B6%84%EB%85%B8%EC%9C%A0%EB%B0%9C%EC%9E%90.swift)<br>[분노 유발자.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/19_%EB%B6%84%EB%85%B8%EC%9C%A0%EB%B0%9C%EC%9E%90.cpp)|
+| 23/08/01 | 20 | 가위 바위 보 |[가위 바위 보.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/20_%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4.swift)<br>[가위 바위 보.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/20_%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4.cpp)|
 
 </details>
 
