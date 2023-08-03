@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int n, k, max = -21400000;
+    int n, k, sum = 0, max = 0;
     cin >> n >> k;
 
     int temps[n];
@@ -10,13 +10,14 @@ int main() {
         cin >> temps[i];
     }
 
-    for(int i = 0; i < n - k + 1; i++) {
-        int sum = 0;
-        for(int j = i; j < i + k; j++) {
-            sum += temps[j];
-        }
+    for(int i = 0; i < k; i++) {
+        sum += temps[i];
+        max = sum;
+    }
 
-        if(sum > max) {
+    for(int i = k; i < n; i++) {
+        sum += temps[i] - temps[i - k];
+        if (sum > max) {
             max = sum;
         }
     }
