@@ -46,6 +46,8 @@
 | 23/08/01 | 20 | 가위 바위 보 |[가위 바위 보.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/20_%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4.swift)<br>[가위 바위 보.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/20_%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4.cpp)|
 | 23/08/03 | 21 | 카드 게임 |[카드 게임.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/21_%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84.swift)<br>[카드 게임.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/21_%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84.cpp)|
 | 23/08/03 | 22 | 온도의 최대값 |[온도의 최대값.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/22_%EC%98%A8%EB%8F%84%EC%9D%98%EC%B5%9C%EB%8C%80%EA%B0%92.swift)<br>[온도의 최대값.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/22_%EC%98%A8%EB%8F%84%EC%9D%98%EC%B5%9C%EB%8C%80%EA%B0%92.cpp)|
+| 23/08/04 | 23 | 연속 부분 증가 수열 |[연속 부분 증가 수열.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/23_%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4.swift)<br>[연속 부분 증가 수열.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/23_%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4.cpp)|
+| 23/08/04 | 24 | Jolly Jumpers |[Jolly Jumpers.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/24_JollyJumpers.swift)<br>[Jolly Jumpers.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/24_JollyJumpers.cpp)|
 
 </details>
 
