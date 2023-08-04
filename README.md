@@ -44,6 +44,8 @@
 | 23/07/31 | 18 | 층간소음 |[층간소음.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/18_%EC%B8%B5%EA%B0%84%EC%86%8C%EC%9D%8C.swift)<br>[층간소음.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/18_%EC%B8%B5%EA%B0%84%EC%86%8C%EC%9D%8C.cpp)|
 | 23/08/01 | 19 | 분노 유발자 |[분노 유발자.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/19_%EB%B6%84%EB%85%B8%EC%9C%A0%EB%B0%9C%EC%9E%90.swift)<br>[분노 유발자.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/19_%EB%B6%84%EB%85%B8%EC%9C%A0%EB%B0%9C%EC%9E%90.cpp)|
 | 23/08/01 | 20 | 가위 바위 보 |[가위 바위 보.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/20_%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4.swift)<br>[가위 바위 보.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/20_%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4.cpp)|
+| 23/08/03 | 21 | 카드 게임 |[카드 게임.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/21_%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84.swift)<br>[카드 게임.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/21_%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84.cpp)|
+| 23/08/03 | 22 | 온도의 최대값 |[온도의 최대값.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/22_%EC%98%A8%EB%8F%84%EC%9D%98%EC%B5%9C%EB%8C%80%EA%B0%92.swift)<br>[온도의 최대값.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/22_%EC%98%A8%EB%8F%84%EC%9D%98%EC%B5%9C%EB%8C%80%EA%B0%92.cpp)|
 
 </details>
 
