@@ -52,6 +52,8 @@
 | 23/08/06 | 26 | 말아톤 |[말아톤.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/26_%EB%A7%90%EC%95%84%ED%86%A4.swift)<br>[말아톤.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/26_%EB%A7%90%EC%95%84%ED%86%A4.cpp)|
 | 23/08/07 | 27 | N!의 표현법 |[N!의 표현법.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/27_N%EC%9D%98%ED%91%9C%ED%98%84%EB%B2%95.swift)<br>[N!의 표현법.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/27_N%EC%9D%98%ED%91%9C%ED%98%84%EB%B2%95.cpp)|
 | 23/08/07 | 28 | N!의 0의 개수 |[N!의 0의 개수.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/28_N%EC%9D%980%EC%9D%98%EA%B0%9C%EC%88%98.swift)<br>[N!의 0의 개수.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/28_N%EC%97%90%EC%84%9C0%EC%9D%98%EA%B0%9C%EC%88%98.cpp)|
+| 23/08/08 | 29 | 3의 개수는?(small) |[3의 개수는?.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/29_3%EC%9D%98%EA%B0%9C%EC%88%98%EB%8A%94.cpp)|
+| 23/08/08 | 30 | 3의 개수는?(large) |[3의 개수는?.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/30_3%EC%9D%98%EA%B0%9C%EC%88%98%EB%8A%94.swift)<br>[3의 개수는?.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/30_3%EC%9D%98%EA%B0%9C%EC%88%98%EB%8A%94.cpp)|
 
 </details>
 
