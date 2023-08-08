@@ -3,29 +3,18 @@
 using namespace std;
 
 int main() {
-    int n, result = 0;
+    int n, cnt = 0;
     cin >> n;
 
-    int i = 2;
-    while(1) {
-        if(pow(10, i) > n) {
-            if(n > 99) {
-                int m = n / pow(10, i - 1);
-                result += m * 20;
-                n = n % int(pow(10, i - 1));
-            } else {
-                int cnt = 0;
-                for(int i = 3; i <= n; i++) {
-                    if(i / 10 == 3) cnt++;
-                    if(i % 10 == 3) cnt++;
-                }
-                result += cnt;
-                break;
-            }
-        } else i++;
+    for(int i = 3; i <= n; i++) {
+        int temp = i;
+        while(temp > 1) {
+            if(temp % 10 == 3) cnt++;
+            temp /= 10; 
+        }
     }
 
-    cout << result << endl;
+    cout << cnt << endl;
 
     return 0;
 }
