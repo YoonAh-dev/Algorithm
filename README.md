@@ -54,6 +54,8 @@
 | 23/08/07 | 28 | N!의 0의 개수 |[N!의 0의 개수.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/28_N%EC%9D%980%EC%9D%98%EA%B0%9C%EC%88%98.swift)<br>[N!의 0의 개수.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/28_N%EC%97%90%EC%84%9C0%EC%9D%98%EA%B0%9C%EC%88%98.cpp)|
 | 23/08/08 | 29 | 3의 개수는?(small) |[3의 개수는?.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/29_3%EC%9D%98%EA%B0%9C%EC%88%98%EB%8A%94.cpp)|
 | 23/08/08 | 30 | 3의 개수는?(large) |[3의 개수는?.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/30_3%EC%9D%98%EA%B0%9C%EC%88%98%EB%8A%94.swift)<br>[3의 개수는?.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/30_3%EC%9D%98%EA%B0%9C%EC%88%98%EB%8A%94.cpp)|
+| 23/08/09 | 31 | 탄화수소질량 |[탄화수소질량.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/31_%ED%83%84%ED%99%94%EC%88%98%EC%86%8C%EC%A7%88%EB%9F%89.swift)<br>[탄화수소질량.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/31_%ED%83%84%ED%99%94%EC%88%98%EC%86%8C%EC%A7%88%EB%9F%89.cpp)|
+| 23/08/09 | 32 | 선택정렬 |[선택정렬.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/32_%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.swift)<br>[선택정렬.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/32_%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.cpp)|
 
 </details>
 
