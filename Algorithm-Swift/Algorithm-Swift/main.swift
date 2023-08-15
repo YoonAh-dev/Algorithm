@@ -7,4 +7,4 @@
 
 import Foundation
 
-solution35()
+solution36()
