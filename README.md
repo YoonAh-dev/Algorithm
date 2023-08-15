@@ -58,6 +58,8 @@
 | 23/08/09 | 32 | 선택정렬 |[선택정렬.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/32_%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.swift)<br>[선택정렬.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/32_%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.cpp)|
 | 23/08/10 | 33 | 3등의 성적은? |[3등의 성적은?.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/33_3%EB%93%B1%EC%9D%98%EC%84%B1%EC%A0%81%EC%9D%80.swift)<br>[3등의 성적은?.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/33_3%EB%93%B1%EC%9D%98%EC%84%B1%EC%A0%81%EC%9D%80.cpp)|
 | 23/08/10 | 34 | 버블정렬 |[버블정렬.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/34_%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC.swift)<br>[버블정렬.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/34_%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC.cpp)|
+| 23/08/15 | 35 | Special Sort |[Special Sort.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/35_SpecialSort.swift)<br>[Special Sort.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/35_SpeiclaSort.cpp)|
+| 23/08/15 | 36 | 삽입정렬 |[삽입정렬.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/36_%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.swift)<br>[삽입정렬.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/36_%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.cpp)|
 
 </details>
 
