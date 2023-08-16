@@ -60,6 +60,8 @@
 | 23/08/10 | 34 | 버블정렬 |[버블정렬.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/34_%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC.swift)<br>[버블정렬.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/34_%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC.cpp)|
 | 23/08/15 | 35 | Special Sort |[Special Sort.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/35_SpecialSort.swift)<br>[Special Sort.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/35_SpeiclaSort.cpp)|
 | 23/08/15 | 36 | 삽입정렬 |[삽입정렬.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/36_%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.swift)<br>[삽입정렬.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/36_%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.cpp)|
+| 23/08/16 | 37 | Least Recently Used |[Least Recently Used.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/37_LeastRecentlyUsed.swift)<br>[Least Recently Used.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/37_LeastRecentlyUsed.cpp)|
+| 23/08/16 | 38 | Inversion Sequence |[Inversion Sequence.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/38_InversionSequence.swift)<br>[Inversion Sequence.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/38_InversionSequence.cpp)|
 
 </details>
 
