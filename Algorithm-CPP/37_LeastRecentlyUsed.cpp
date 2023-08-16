@@ -32,11 +32,9 @@ int main() {
         }
 
         arr[0] = input;
-
-        for(int j = 0; j < s; j++) cout << arr[j] << " ";
-
-        cout << endl;
     }
+
+    for(int j = 0; j < s; j++) cout << arr[j] << " ";
 
     return 0;
 }
