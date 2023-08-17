@@ -62,6 +62,8 @@
 | 23/08/15 | 36 | 삽입정렬 |[삽입정렬.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/36_%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.swift)<br>[삽입정렬.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/36_%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.cpp)|
 | 23/08/16 | 37 | Least Recently Used |[Least Recently Used.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/37_LeastRecentlyUsed.swift)<br>[Least Recently Used.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/37_LeastRecentlyUsed.cpp)|
 | 23/08/16 | 38 | Inversion Sequence |[Inversion Sequence.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/38_InversionSequence.swift)<br>[Inversion Sequence.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/38_InversionSequence.cpp)|
+| 23/08/17 | 39 | 두 배열 합치기 |[두 배열 합치기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/39_%EB%91%90%EB%B0%B0%EC%97%B4%ED%95%A9%EC%B9%98%EA%B8%B0.swift)<br>[두 배열 합치기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/39_%EB%91%90%EB%B0%B0%EC%97%B4%ED%95%A9%EC%B9%98%EA%B8%B0.cpp)|
+| 23/08/17 | 40 | 교집합 |[교집합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/40_%EA%B5%90%EC%A7%91%ED%95%A9.swift)<br>[교집합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/40_%EA%B5%90%EC%A7%91%ED%95%A9.cpp)|
 
 </details>
 
