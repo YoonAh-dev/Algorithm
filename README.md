@@ -1,4 +1,4 @@
-# 🍋 게으름뱅이의 Swift 알고리즘 마스터 도전기
+# 🍋 게으름뱅이의 Swift, CPP 1일 1알고리즘 도전기
 
 > 지금까지 공부했던 내용을 정리합니다.
 
@@ -64,6 +64,8 @@
 | 23/08/16 | 38 | Inversion Sequence |[Inversion Sequence.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/38_InversionSequence.swift)<br>[Inversion Sequence.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/38_InversionSequence.cpp)|
 | 23/08/17 | 39 | 두 배열 합치기 |[두 배열 합치기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/39_%EB%91%90%EB%B0%B0%EC%97%B4%ED%95%A9%EC%B9%98%EA%B8%B0.swift)<br>[두 배열 합치기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/39_%EB%91%90%EB%B0%B0%EC%97%B4%ED%95%A9%EC%B9%98%EA%B8%B0.cpp)|
 | 23/08/17 | 40 | 교집합 |[교집합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/40_%EA%B5%90%EC%A7%91%ED%95%A9.swift)<br>[교집합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/40_%EA%B5%90%EC%A7%91%ED%95%A9.cpp)|
+| 23/08/18 | 41 | 연속된 자연수의 합 |[연속된 자연수의 합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/41_%EC%97%B0%EC%86%8D%EB%90%9C%EC%9E%90%EC%97%B0%EC%88%98%EC%9D%98%ED%95%A9.swift)<br>[연속된 자연수의 합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/41_%EC%97%B0%EC%86%8D%EB%90%9C%EC%9E%90%EC%97%B0%EC%88%98%EC%9D%98%ED%95%A9.cpp)|
+| 23/08/18 | 42 | 이분검색 |[이분검색.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/42_%EC%9D%B4%EB%B6%84%EA%B2%80%EC%83%89.swift)<br>[이분검색.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/42_%EC%9D%B4%EB%B6%84%EA%B2%80%EC%83%89.cpp)|
 
 </details>
 
