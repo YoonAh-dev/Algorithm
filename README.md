@@ -66,6 +66,8 @@
 | 23/08/17 | 40 | 교집합 |[교집합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/40_%EA%B5%90%EC%A7%91%ED%95%A9.swift)<br>[교집합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/40_%EA%B5%90%EC%A7%91%ED%95%A9.cpp)|
 | 23/08/18 | 41 | 연속된 자연수의 합 |[연속된 자연수의 합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/41_%EC%97%B0%EC%86%8D%EB%90%9C%EC%9E%90%EC%97%B0%EC%88%98%EC%9D%98%ED%95%A9.swift)<br>[연속된 자연수의 합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/41_%EC%97%B0%EC%86%8D%EB%90%9C%EC%9E%90%EC%97%B0%EC%88%98%EC%9D%98%ED%95%A9.cpp)|
 | 23/08/18 | 42 | 이분검색 |[이분검색.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/42_%EC%9D%B4%EB%B6%84%EA%B2%80%EC%83%89.swift)<br>[이분검색.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/42_%EC%9D%B4%EB%B6%84%EA%B2%80%EC%83%89.cpp)|
+| 23/08/20 | 43 | 뮤직비디오 |[뮤직비디오.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/43_%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4.swift)<br>[뮤직비디오.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/43_%EB%AE%A4%EC%A7%81%EB%B9%84%EB%94%94%EC%98%A4.cpp)|
+| 23/08/20 | 44 | 마구간 정하기 |[마구간 정하기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/44_%EB%A7%88%EA%B5%AC%EA%B0%84%EC%A0%95%ED%95%98%EA%B8%B0.swift)<br>[마구간 정하기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/44_%EB%A7%88%EA%B5%AC%EA%B0%84%EC%A0%95%ED%95%98%EA%B8%B0.cpp)|
 
 </details>
 
