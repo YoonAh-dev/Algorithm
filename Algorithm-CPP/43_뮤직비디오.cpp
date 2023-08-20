@@ -19,22 +19,17 @@ int main() {
         int total = 0, cnt = 0;
 
         for(int i = 0; i < n; i++) {
-            total += arr[i];
-
-            if(total == mid) {
-                total = 0; cnt++;
-            } else if(total > mid) {
-                total = 0; cnt++; i--;
-            }
+            if(total + arr[i] > mid) {
+                cnt++; total = arr[i];
+            } else total += arr[i];
         }
 
         if(total > 0) cnt++;
 
-        if(cnt > m) lt = mid + 1;
-        else if(cnt <= m) {
+        if(mid >= *max_element(arr.begin(), arr.end()) && cnt <= m) {
             rt = mid - 1;
             res = mid;
-        }
+        } else lt = mid + 1;
     }
 
     cout << res << endl;
