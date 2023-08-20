@@ -29,10 +29,12 @@ int main() {
             }
         }
 
-        if(cnt == c) {
+        if(total < min) min = total;
+
+        if(cnt == c - 1) {
             rt = mid - 1;
             if(min > max) max = min;
-        } else if(cnt < c) rt = mid - 1;
+        } else if(cnt < c - 1) rt = mid - 1;
         else lt = mid + 1;
     }
 
