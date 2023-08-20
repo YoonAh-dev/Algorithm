@@ -6,41 +6,29 @@ int main() {
     int n, c;
     cin >> n >> c;
 
-    int arr[n], distances[n-1], lt = 1, rt = 0, max = 0;
-    for(int i = 0; i < n; i++) {
-        cin >> arr[i];
-        rt += arr[i];
-    }
+    int arr[n];
+    for(int i = 0; i < n; i++) cin >> arr[i];
     sort(arr, arr+n);
 
-    for(int i = 0; i < n - 1; i++) {
-        distances[i] = arr[i + 1] - arr[i];
-    }
-
+    int lt = 1, rt = arr[n-1], res = 0;
     while(lt <= rt) {
         int mid = (lt + rt) / 2;
-        int total = 0, cnt = 1, min = 1000000000;
+        int pos = arr[0], cnt = 1;
 
-        for(int i = 0; i < n - 1; i++) {
-            if(distances[i] + total > mid) {
+        for(int i = 1; i < n; i++) {
+            if(arr[i] - pos >= mid) {
                 cnt++;
-                if(total < min) min = total;
-                total = distances[i];
-            } else {
-                total += distances[i];
+                pos = arr[i];
             }
         }
 
-        if(total < min) min = total;
-
-        if(cnt == c - 1) {
-            rt = mid - 1;
-            if(min > max) max = min;
-        } else if(cnt < c - 1) rt = mid - 1;
-        else lt = mid + 1;
+        if(cnt >= c) {
+            lt = mid + 1;
+            res = mid;
+        } else rt = mid - 1;
     }
 
-    cout << max << endl;
+    cout << res << endl;
 
     return 0;
 }
