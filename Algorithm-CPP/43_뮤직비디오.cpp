@@ -24,8 +24,6 @@ int main() {
             } else total += arr[i];
         }
 
-        if(total > 0) cnt++;
-
         if(mid >= *max_element(arr.begin(), arr.end()) && cnt <= m) {
             rt = mid - 1;
             res = mid;

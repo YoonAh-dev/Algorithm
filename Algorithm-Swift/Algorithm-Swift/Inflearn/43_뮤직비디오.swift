@@ -17,25 +17,21 @@ func solution43() {
         let mid = (lt + rt) / 2
         var total = 0, cnt = 0, i = 0
 
-        while i < n {
-            total += arr[i]
-
-            if total == mid {
-                total = 0; cnt += 1; i += 1
-            } else if total > mid {
-                total = 0; cnt += 1
+        for i in 0..<n {
+            if total + arr[i] > mid {
+                total = arr[i]
+                cnt += 1
             } else {
-                i += 1
+                total += arr[i]
             }
         }
 
         if total > 0 { cnt += 1 }
 
-        if cnt > m { lt = mid + 1 }
-        else if cnt <= m {
+        if cnt <= m && mid >= arr.max()! {
             rt = mid - 1
             res = mid
-        }
+        } else { lt = mid + 1 }
     }
 
     print(res)
