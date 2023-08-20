@@ -7,12 +7,14 @@ int main() {
     cin >> n >> c;
 
     int arr[n], distances[n-1], lt = 1, rt = 0, max = 0;
-    for(int i = 0; i < n; i++) cin >> arr[i];
+    for(int i = 0; i < n; i++) {
+        cin >> arr[i];
+        rt += arr[i];
+    }
     sort(arr, arr+n);
 
     for(int i = 0; i < n - 1; i++) {
         distances[i] = arr[i + 1] - arr[i];
-        rt += distances[i];
     }
 
     while(lt <= rt) {
