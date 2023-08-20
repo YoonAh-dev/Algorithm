@@ -15,7 +15,7 @@ func solution43() {
 
     while lt <= rt {
         let mid = (lt + rt) / 2
-        var total = 0, cnt = 0, i = 0
+        var total = 0, cnt = 0
 
         for i in 0..<n {
             if total + arr[i] > mid {

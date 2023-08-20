@@ -16,7 +16,7 @@ int main() {
     int lt = 1, rt = sum, res = lt;
     while(lt <= rt) {
         int mid = (lt + rt) / 2;
-        int total = 0, cnt = 0;
+        int total = 0, cnt = 1;
 
         for(int i = 0; i < n; i++) {
             if(total + arr[i] > mid) {
