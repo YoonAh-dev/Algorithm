@@ -26,8 +26,6 @@ int main() {
 
             if(index == n) index = 0;
         }
-
-        arr[index] = 1;
     }
 
     for(int i = 0; i < n; i++) {
