@@ -70,6 +70,8 @@
 | 23/08/20 | 44 | 마구간 정하기 |[마구간 정하기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/44_%EB%A7%88%EA%B5%AC%EA%B0%84%EC%A0%95%ED%95%98%EA%B8%B0.swift)<br>[마구간 정하기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/44_%EB%A7%88%EA%B5%AC%EA%B0%84%EC%A0%95%ED%95%98%EA%B8%B0.cpp)|
 | 23/08/22 | 45 | 공주 구하기 |[공주 구하기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/45_%EA%B3%B5%EC%A3%BC%EA%B5%AC%ED%95%98%EA%B8%B0.swift)<br>[공주 구하기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/45_%EA%B3%B5%EC%A3%BC%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)|
 | 23/08/22 | 46 | 멀티태스킹 |[멀티태스킹.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/46_%EB%A9%80%ED%8B%B0%ED%83%9C%EC%8A%A4%ED%82%B9.swift)<br>[멀티태스킹.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/46_%EB%A9%80%ED%8B%B0%ED%83%9C%EC%8A%A4%ED%82%B9.cpp)|
+| 23/08/23 | 47 | 봉우리 |[봉우리.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/47_%EB%B4%89%EC%9A%B0%EB%A6%AC.swift)<br>[봉우리.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/47_%EB%B4%89%EC%9A%B0%EB%A6%AC.cpp)|
+| 23/08/23 | 48 | 각 행의 평균과 가장 가까운 값 |[각 행의 평균과 가장 가까운 값.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/48_%EA%B0%81%ED%96%89%EC%9D%98%ED%8F%89%EA%B7%A0%EA%B3%BC%EA%B0%80%EC%9E%A5%EA%B0%80%EA%B9%8C%EC%9A%B4%EA%B0%92.swift)<br>[각 행의 평균과 가장 가까운 값.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/48_%EA%B0%81%ED%96%89%EC%9D%98%ED%8F%89%EA%B7%A0%EA%B3%BC%EA%B0%80%EC%9E%A5%EA%B0%80%EA%B9%8C%EC%9A%B4%EA%B0%92.cpp)|
 
 </details>
 
