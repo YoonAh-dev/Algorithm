@@ -74,6 +74,8 @@
 | 23/08/23 | 48 | 각 행의 평균과 가장 가까운 값 |[각 행의 평균과 가장 가까운 값.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/48_%EA%B0%81%ED%96%89%EC%9D%98%ED%8F%89%EA%B7%A0%EA%B3%BC%EA%B0%80%EC%9E%A5%EA%B0%80%EA%B9%8C%EC%9A%B4%EA%B0%92.swift)<br>[각 행의 평균과 가장 가까운 값.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/48_%EA%B0%81%ED%96%89%EC%9D%98%ED%8F%89%EA%B7%A0%EA%B3%BC%EA%B0%80%EC%9E%A5%EA%B0%80%EA%B9%8C%EC%9A%B4%EA%B0%92.cpp)|
 | 23/08/24 | 49 | 블록의 최댓값 |[블록의 최댓값.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/49_%EB%B8%94%EB%A1%9D%EC%9D%98%EC%B5%9C%EB%8C%93%EA%B0%92.swift)<br>[블록의 최댓값.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/49_%EB%B8%94%EB%A1%9D%EC%9D%98%EC%B5%9C%EB%8C%93%EA%B0%92.cpp)|
 | 23/08/24 | 50 | 영지선택(small) |[영지선택(small).swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/50_%EC%98%81%EC%A7%80%EC%84%A0%ED%83%9D.swift)<br>[영지선택(small).cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/50_%EC%98%81%EC%A7%80%EC%84%A0%ED%83%9D.cpp)|
+| 23/08/25 | 51 | 영지선택(large) |[영지선택(large).swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/51_%EC%98%81%EC%A7%80%EC%84%A0%ED%83%9D.swift)<br>[영지선택(large).cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/51_%EC%98%81%EC%A7%80%EC%84%A0%ED%83%9D.cpp)|
+| 23/08/25 | 52 | Ugly Numbers |[Ugly Numbers.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/52_UglyNumbers.swift)<br>[Ugly Numbers.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/52_UglyNumbers.cpp)|
 
 </details>
 
