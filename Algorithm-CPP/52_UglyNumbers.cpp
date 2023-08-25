@@ -8,18 +8,15 @@ int main() {
     while(cnt < n) {
         res++;
         int temp = res;
-        while(true) {
-            for(int i = 2; temp > 1; ) {
-                if(i > 5 && temp > 1) break;
+        for(int i = 2; temp > 1; ) {
+            if(i > 5 && temp > 1) break;
 
-                if(temp % i == 0) {
-                    temp /= i;
-                } else i++;
-            }
-
-            if(temp <= 1) cnt++;
-            break;
+            if(temp % i == 0) {
+                temp /= i;
+            } else i++;
         }
+
+        if(temp <= 1) cnt++;
     }
 
     cout << res << endl;
