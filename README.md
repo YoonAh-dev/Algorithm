@@ -76,6 +76,8 @@
 | 23/08/24 | 50 | 영지선택(small) |[영지선택(small).swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/50_%EC%98%81%EC%A7%80%EC%84%A0%ED%83%9D.swift)<br>[영지선택(small).cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/50_%EC%98%81%EC%A7%80%EC%84%A0%ED%83%9D.cpp)|
 | 23/08/25 | 51 | 영지선택(large) |[영지선택(large).swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/51_%EC%98%81%EC%A7%80%EC%84%A0%ED%83%9D.swift)<br>[영지선택(large).cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/51_%EC%98%81%EC%A7%80%EC%84%A0%ED%83%9D.cpp)|
 | 23/08/25 | 52 | Ugly Numbers |[Ugly Numbers.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/52_UglyNumbers.swift)<br>[Ugly Numbers.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/52_UglyNumbers.cpp)|
+| 23/08/26 | 53 | K진수 출력 |[K진수 출력.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/53_K%EC%A7%84%EC%88%98%EC%B6%9C%EB%A0%A5.swift)<br>[K진수 출력.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/53_K%EC%A7%84%EC%88%98%EC%B6%9C%EB%A0%A5.cpp)|
+| 23/08/26 | 54 | 올바른 괄호 |[올바른 괄호.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/54_%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8.swift)<br>[올바른 괄호.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/54_%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8.cpp)|
 
 </details>
 
