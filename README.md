@@ -78,6 +78,8 @@
 | 23/08/25 | 52 | Ugly Numbers |[Ugly Numbers.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/52_UglyNumbers.swift)<br>[Ugly Numbers.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/52_UglyNumbers.cpp)|
 | 23/08/26 | 53 | K진수 출력 |[K진수 출력.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/53_K%EC%A7%84%EC%88%98%EC%B6%9C%EB%A0%A5.swift)<br>[K진수 출력.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/53_K%EC%A7%84%EC%88%98%EC%B6%9C%EB%A0%A5.cpp)|
 | 23/08/26 | 54 | 올바른 괄호 |[올바른 괄호.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/54_%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8.swift)<br>[올바른 괄호.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/54_%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8.cpp)|
+| 23/08/27 | 55 | 기차운행 |[기차운행.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/55_%EA%B8%B0%EC%B0%A8%EC%9A%B4%ED%96%89.swift)<br>[기차운행.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/55_%EA%B8%B0%EC%B0%A8%EC%9A%B4%ED%96%89.cpp)|
+| 23/08/27 | 56 | 재귀함수 분석 |[재귀함수 분석.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/56_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EB%B6%84%EC%84%9D.swift)<br>[재귀함수 분석.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/56_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EB%B6%84%EC%84%9D.cpp)|
 
 </details>
 
