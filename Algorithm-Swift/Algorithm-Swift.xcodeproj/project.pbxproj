@@ -84,6 +84,7 @@
 		B58CA2F52A9C34BD00977592 /* 58_이진트리깊이우선탐색.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58CA2F42A9C34BD00977592 /* 58_이진트리깊이우선탐색.swift */; };
 		B58CA30D2A9D826300977592 /* 59_부분집합.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58CA30C2A9D826300977592 /* 59_부분집합.swift */; };
 		B58CA30F2A9D874400977592 /* 60_합이같은부분집합.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58CA30E2A9D874400977592 /* 60_합이같은부분집합.swift */; };
+		B58CA31F2A9E9E7000977592 /* 61_특정수만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58CA31E2A9E9E7000977592 /* 61_특정수만들기.swift */; };
 		B5A086082A9845CC00C8A98D /* 51_영지선택.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A086072A9845CC00C8A98D /* 51_영지선택.swift */; };
 		B5A0860A2A98595A00C8A98D /* 52_UglyNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A086092A98595A00C8A98D /* 52_UglyNumbers.swift */; };
 		B5A0860E2A99942900C8A98D /* 53_K진수출력.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5A0860D2A99942900C8A98D /* 53_K진수출력.swift */; };
@@ -232,6 +233,7 @@
 		B58CA2F42A9C34BD00977592 /* 58_이진트리깊이우선탐색.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "58_이진트리깊이우선탐색.swift"; sourceTree = "<group>"; };
 		B58CA30C2A9D826300977592 /* 59_부분집합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "59_부분집합.swift"; sourceTree = "<group>"; };
 		B58CA30E2A9D874400977592 /* 60_합이같은부분집합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "60_합이같은부분집합.swift"; sourceTree = "<group>"; };
+		B58CA31E2A9E9E7000977592 /* 61_특정수만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "61_특정수만들기.swift"; sourceTree = "<group>"; };
 		B5A086072A9845CC00C8A98D /* 51_영지선택.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "51_영지선택.swift"; sourceTree = "<group>"; };
 		B5A086092A98595A00C8A98D /* 52_UglyNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 52_UglyNumbers.swift; sourceTree = "<group>"; };
 		B5A0860D2A99942900C8A98D /* 53_K진수출력.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "53_K진수출력.swift"; sourceTree = "<group>"; };
@@ -363,6 +365,7 @@
 				B58CA2F42A9C34BD00977592 /* 58_이진트리깊이우선탐색.swift */,
 				B58CA30C2A9D826300977592 /* 59_부분집합.swift */,
 				B58CA30E2A9D874400977592 /* 60_합이같은부분집합.swift */,
+				B58CA31E2A9E9E7000977592 /* 61_특정수만들기.swift */,
 			);
 			path = Inflearn;
 			sourceTree = "<group>";
@@ -709,6 +712,7 @@
 				B57CB2E62A74BB3300474042 /* 14_뒤집은소수.swift in Sources */,
 				B50CEEA52A6D310100CF1C76 /* 01_1부터N까지M의배수합.swift in Sources */,
 				B5C96C9E2952F4F900AC13E2 /* 14681. 사분면 고르기.swift in Sources */,
+				B58CA31F2A9E9E7000977592 /* 61_특정수만들기.swift in Sources */,
 				B53AD3E32A7750E800B83B33 /* 17_선생님퀴즈.swift in Sources */,
 				B5C96CB42953352700AC13E2 /* 11021. A+B-7.swift in Sources */,
 				B58CA30F2A9D874400977592 /* 60_합이같은부분집합.swift in Sources */,
