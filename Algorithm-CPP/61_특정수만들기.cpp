@@ -5,7 +5,6 @@ int cnt = 0;
 int arr[10];
 
 void dfs(int l, int n, int m, int sum) {
-    if(sum > m) return;
     if(l == n) {
         if(sum == m) cnt++;
         return;
