@@ -84,6 +84,7 @@
 | 23/08/28 | 58 | 이진트리 깊이 우선 탐색 |[이진트리 깊이 우선 탐색.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/58_%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89.swift)<br>[이진트리 깊이 우선 탐색.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/58_%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89.cpp)|
 | 23/08/29 | 59 | 부분집합 |[부분집합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/59_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.swift)<br>[부분집합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/59_%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.cpp)|
 | 23/08/29 | 60 | 합이 같은 부분집합 |[합이 같은 부분집합.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/60_%ED%95%A9%EC%9D%B4%EA%B0%99%EC%9D%80%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.swift)<br>[합이 같은 부분집합.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/60_%ED%95%A9%EC%9D%B4%EA%B0%99%EC%9D%80%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.cpp)|
+| 23/08/30 | 61 | 특정 수 만들기 |[특정 수 만들기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/61_%ED%8A%B9%EC%A0%95%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)<br>[특정 수 만들기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/61_%ED%8A%B9%EC%A0%95%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|
 
 </details>
 
