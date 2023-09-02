@@ -24,5 +24,10 @@ func solution61() {
     let nm = readLine()!.split(separator: " ").map { Int($0)! }, n = nm.first!, m = nm.last!
     let arr = readLine()!.split(separator: " ").map { Int($0)! }
     dfs61(l: 0, n: n, m: m, sum: 0, arr: arr)
-    print(cnt61)
+
+    if cnt61 == 0 {
+        print("-1")
+    } else {
+        print(cnt61)
+    }
 }

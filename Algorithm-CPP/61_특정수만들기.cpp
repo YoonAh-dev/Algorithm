@@ -22,7 +22,8 @@ int main() {
 
     dfs(0, n, m, 0);
 
-    cout << cnt << endl;
+    if(cnt == 0) cout << "-1" << endl;
+    else cout << cnt << endl;
 
     return 0;
 }
