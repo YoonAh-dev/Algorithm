@@ -23,13 +23,11 @@ int main() {
     int N, M;
     cin >> N >> M;
 
-    for(int i = 1; i <= N; i++) {
-        for(int j = 1; j <= N; j++) {
-            int row, col, cost;
-            cin >> row >> col >> cost;
-            arr[row][col] = cost;
-            minValue += cost;
-        }
+    for(int i = 1; i <= M; i++) {
+        int row, col, cost;
+        cin >> row >> col >> cost;
+        arr[row][col] = cost;
+        minValue += cost;
     }
 
     ch[1] = 1;
