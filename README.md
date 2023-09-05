@@ -13,6 +13,7 @@
 |삽입 정렬(Insertion sort) | [InsertionSort.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Utility/Sort/InsertionSort.swift) | <a href="https://yoonah-dev.oopy.io/2295f114-1e35-4623-9252-5b0dfb436d69" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>  |
 |합병 정렬(Merge sort) | [MergeSort.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Utility/Sort/MergeSort.swift) | <a href="https://yoonah-dev.oopy.io/8ed200dc-344c-4e99-9c5f-d59cf56676b9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>  |
 |신속 정렬(Quick sort) | [QuickSort.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Utility/Sort/QuickSort.swift) | <a href="https://yoonah-dev.oopy.io/2fb7fac8-b5c2-4caa-a74a-0130465f8e44" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>  |
+|힙 정렬(Heap sort) | [HeapSort.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Utility/Sort/HeapSort.swift) | <a href="https://yoonah-dev.oopy.io/c4db7716-4859-4663-bbe2-d6cf70f7a12e" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>  |
 </details>
 
 <br/><br>
