@@ -20,7 +20,7 @@ int main() {
                 cout << x.second + 1 << endl;
                 return 0;
             } else {
-                if(ch[x.first + d[i]] == 0 && x.first + d[i] >= 0) {
+                if((x.first + d[i] >= 0) && (x.first + d[i] <= 10000) && (ch[x.first + d[i]] == 0)) {
                     Q.push({x.first + d[i], x.second + 1});
                     ch[x.first + d[i]] = 1;
                 }
