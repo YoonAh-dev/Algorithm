@@ -97,6 +97,8 @@
 | 23/09/04 | 68 | 최소비용(인접리스트) |[최소비용(인접리스트).cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/68_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9.cpp)|
 | 23/09/05 | 69 | 이진트리 넓이우선 탐색 |[이진트리 넓이우선 탐색.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/69_%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%EB%84%93%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89.swift)<br>[이진트리 넓이우선 탐색.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/69_%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%EB%84%93%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89.cpp)|
 | 23/09/05 | 70 | 그래프 최단거리 |[그래프 최단거리.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/70_%EA%B7%B8%EB%9E%98%ED%94%84%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.swift)<br>[그래프 최단거리.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/70_%EA%B7%B8%EB%9E%98%ED%94%84%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.cpp)|
+| 23/09/06 | 71 | 송아지 찾기 |[송아지 찾기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/71_%EC%86%A1%EC%95%84%EC%A7%80%EC%B0%BE%EA%B8%B0.swift)<br>[송아지 찾기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/71_%EC%86%A1%EC%95%84%EC%A7%80%EC%B0%BE%EA%B8%B0.cpp)|
+| 23/09/06 | 72 | 공주 구하기 |[공주 구하기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/72_%EA%B3%B5%EC%A3%BC%EA%B5%AC%ED%95%98%EA%B8%B0.swift)<br>[공주 구하기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/72_%EA%B3%B5%EC%A3%BC%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)|
 
 </details>
 
