@@ -3,12 +3,12 @@
 using namespace std;
 
 int main() {
-    int d[] = {1, -1, 5};
+    int d[] = {-1, 1, 5};
     queue<pair<int, int>> Q;
     int S, E;
     cin >> S >> E;
 
-    Q.push({5, 0});
+    Q.push({S, 0});
 
     while(!Q.empty()) {
         pair<int, int> x = Q.front();
