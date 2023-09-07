@@ -99,6 +99,8 @@
 | 23/09/05 | 70 | 그래프 최단거리 |[그래프 최단거리.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/70_%EA%B7%B8%EB%9E%98%ED%94%84%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.swift)<br>[그래프 최단거리.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/70_%EA%B7%B8%EB%9E%98%ED%94%84%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.cpp)|
 | 23/09/06 | 71 | 송아지 찾기 |[송아지 찾기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/71_%EC%86%A1%EC%95%84%EC%A7%80%EC%B0%BE%EA%B8%B0.swift)<br>[송아지 찾기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/71_%EC%86%A1%EC%95%84%EC%A7%80%EC%B0%BE%EA%B8%B0.cpp)|
 | 23/09/06 | 72 | 공주 구하기 |[공주 구하기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/72_%EA%B3%B5%EC%A3%BC%EA%B5%AC%ED%95%98%EA%B8%B0.swift)<br>[공주 구하기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/72_%EA%B3%B5%EC%A3%BC%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)|
+| 23/09/07 | 73 | 최대힙 |[최대힙.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/73_%EC%B5%9C%EB%8C%80%ED%9E%99.swift)<br>[최대힙.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/73_%EC%B5%9C%EB%8C%80%ED%9E%99.cpp)|
+| 23/09/07 | 74 | 최소힙 |[최소힙.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/74_%EC%B5%9C%EC%86%8C%ED%9E%99.swift)<br>[최소힙.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/74_%EC%B5%9C%EC%86%8C%ED%9E%99.cpp)|
 
 </details>
 
