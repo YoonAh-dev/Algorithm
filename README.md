@@ -101,6 +101,8 @@
 | 23/09/06 | 72 | 공주 구하기 |[공주 구하기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/72_%EA%B3%B5%EC%A3%BC%EA%B5%AC%ED%95%98%EA%B8%B0.swift)<br>[공주 구하기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/72_%EA%B3%B5%EC%A3%BC%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)|
 | 23/09/07 | 73 | 최대힙 |[최대힙.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/73_%EC%B5%9C%EB%8C%80%ED%9E%99.swift)<br>[최대힙.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/73_%EC%B5%9C%EB%8C%80%ED%9E%99.cpp)|
 | 23/09/07 | 74 | 최소힙 |[최소힙.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/74_%EC%B5%9C%EC%86%8C%ED%9E%99.swift)<br>[최소힙.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/74_%EC%B5%9C%EC%86%8C%ED%9E%99.cpp)|
+| 23/09/08 | 75 | 최대수입스케쥴 |[최대수입스케쥴.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/75_%EC%B5%9C%EB%8C%80%EC%88%98%EC%9E%85%EC%8A%A4%EC%BC%80%EC%A4%84.swift)<br>[최대수입스케쥴.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/75_%EC%B5%9C%EB%8C%80%EC%88%98%EC%9E%85%EC%8A%A4%EC%BC%80%EC%A5%B4.cpp)|
+| 23/09/08 | 76 | 이항계수 |[이항계수.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/76_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%98.swift)<br>[이항계수.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/76_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%98.cpp)|
 
 </details>
 
