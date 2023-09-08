@@ -23,31 +23,39 @@ int main() {
 
     priority_queue<int> pq;
     vector<Company> company;
-    int n, index = 0, sum = 0;
+    int n, index = 0, sum = 0, days = 0;
     cin >> n;
 
     for(int i = 0; i < n; i++) {
         int money, day;
         cin >> money >> day;
         company.push_back(Company(money, day));
+        if(days < day) days = day;
     }
 
     sort(company.begin(), company.end());
 
-    while(index < company.size()) {
+    while(days > 0) {
         int day = company[index].day;
-        pq.push(company[index++].money);
 
-        if(index >= company.size()) break;
+        if(day == days) {
+            pq.push(company[index++].money);
 
-        while(true) {
-            if(company[index].day == day) {
-                pq.push(company[index++].money);
-            } else break;
+            if(index >= company.size()) break;
+
+            while(true) {
+                if(company[index].day == day) {
+                    pq.push(company[index++].money);
+                } else break;
+            }
         }
 
-        sum += pq.top();
-        pq.pop();
+        if(!pq.empty()) {
+            sum += pq.top();
+            pq.pop();   
+        }
+
+        days -= 1;
     }
 
     cout << sum << endl;
