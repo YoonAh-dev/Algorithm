@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 
-int dfs(int n, int m) {
-    if(n == m) { return m; }
-    return n * dfs(n - 1, m);
+int dfs(int n, int m, int count) {
+    if(m == count) { return 1; }
+    return n * dfs(n - 1, m, count + 1);
 }
 
 int main() {
     int n, r;
     cin >> n >> r;
-    cout << dfs(n, r) / dfs(r, 1) << endl;
+    cout << dfs(n, r, 0) / dfs(r, r, 0) << endl;
 }
