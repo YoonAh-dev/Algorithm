@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 #include <queue>
 using namespace std;
 struct Company {
@@ -11,7 +12,7 @@ struct Company {
 
     bool operator<(Company const &c) const {
         if(day != c.day) return day > c.day;
-        if(money != c.money) return money < c.money;
+        if(money != c.money) return money > c.money;
         return false;
     }
 };
@@ -19,26 +20,36 @@ struct Company {
 int main() {
     freopen("input.txt", "rt", stdin);
 
-    priority_queue<Company> pq;
-    int n, current = 0, sum = 0;
+    priority_queue<int> pq;
+    vector<Company> company;
+    int n, index = 0, sum = 0;
     cin >> n;
 
     for(int i = 0; i < n; i++) {
         int money, day;
         cin >> money >> day;
-        pq.push(Company(money, day));
+        company.push_back(Company(money, day));
     }
 
-    while(!pq.empty()) {
-        Company c = pq.top();
-        pq.pop();
+    sort(company.begin(), company.end());
 
-        if(c.day != current) {
-            current = c.day;
-            sum += c.money;
+    while(index < company.size()) {
+        int day = company[index].day;
+        pq.push(company[index++].money);
+
+        if(index >= company.size()) break;
+
+        while(true) {
+            if(company[index].day == day) {
+                pq.push(company[index++].money);
+            } else break;
         }
+
+        sum += pq.top();
+        pq.pop();
     }
 
     cout << sum << endl;
+    
     return 0;
 }
