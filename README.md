@@ -103,6 +103,9 @@
 | 23/09/07 | 74 | 최소힙 |[최소힙.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/74_%EC%B5%9C%EC%86%8C%ED%9E%99.swift)<br>[최소힙.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/74_%EC%B5%9C%EC%86%8C%ED%9E%99.cpp)|
 | 23/09/08 | 75 | 최대수입스케쥴 |[최대수입스케쥴.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/75_%EC%B5%9C%EB%8C%80%EC%88%98%EC%9E%85%EC%8A%A4%EC%BC%80%EC%A4%84.swift)<br>[최대수입스케쥴.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/75_%EC%B5%9C%EB%8C%80%EC%88%98%EC%9E%85%EC%8A%A4%EC%BC%80%EC%A5%B4.cpp)|
 | 23/09/08 | 76 | 이항계수 |[이항계수.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/76_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%98.swift)<br>[이항계수.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/76_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%98.cpp)|
+| 23/09/09 | 77 | 친구인가(dfs) |[친구인가(dfs).cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/77_%EC%B9%9C%EA%B5%AC%EC%9D%B8%EA%B0%80.cpp)|
+| 23/09/09 | 77 | 친구인가(disjoint set) |[친구인가(disjoint set).swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/77_%EC%B9%9C%EA%B5%AC%EC%9D%B8%EA%B0%80.swift)<br>[친구인가(disjoint set).cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/77_%EC%B9%9C%EA%B5%AC%EC%9D%B8%EA%B0%80UnionNFind.cpp)|
+| 23/09/09 | 78 | 원더랜드 |[원더랜드.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/78_%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C.swift)<br>[원더랜드.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/78_%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C.cpp)|
 
 </details>
 
