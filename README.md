@@ -106,6 +106,9 @@
 | 23/09/09 | 77 | 친구인가(dfs) |[친구인가(dfs).cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/77_%EC%B9%9C%EA%B5%AC%EC%9D%B8%EA%B0%80.cpp)|
 | 23/09/09 | 77 | 친구인가(disjoint set) |[친구인가(disjoint set).swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/77_%EC%B9%9C%EA%B5%AC%EC%9D%B8%EA%B0%80.swift)<br>[친구인가(disjoint set).cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/77_%EC%B9%9C%EA%B5%AC%EC%9D%B8%EA%B0%80UnionNFind.cpp)|
 | 23/09/09 | 78 | 원더랜드 |[원더랜드.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/78_%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C.swift)<br>[원더랜드.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/78_%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C.cpp)|
+| 23/09/10 | 79 | 원더랜드(kruskal) |[원더랜드(kruskal).cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/79_%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C.cpp)|
+| 23/09/10 | 79 | 원더랜드(prime) |[원더랜드(prime).swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/79_%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C.swift)<br>[원더랜드(prime).cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/79_%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9CPrime.cpp)|
+| 23/09/10 | 80 | 다익스트라 알고리즘 |[다익스트라 알고리즘.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/80_%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.swift)<br>[다익스트라 알고리즘.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/80_%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.cpp)|
 
 </details>
 
