@@ -8,7 +8,7 @@ void DFS(int l, int sum) {
     if(l >= n) {
         if(sum > maxvalue) maxvalue = sum;
     } else {
-        if((n - 1) - l >= sc[l].first) {
+        if(n - l >= sc[l].first) {
             DFS(l + sc[l].first, sum + sc[l].second);
         }
         DFS(l + 1, sum);
