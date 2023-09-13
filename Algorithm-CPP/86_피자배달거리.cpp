@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 int n, m, minD = 2147000000;
 vector<pair<int, int>> mapp, maph;
