@@ -113,6 +113,8 @@
 | 23/09/11 | 82 | 순열 구하기 |[순열 구하기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/82_%EC%88%9C%EC%97%B4%EA%B5%AC%ED%95%98%EA%B8%B0.swift)<br>[순열 구하기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/82_%EC%88%9C%EC%97%B4%EA%B5%AC%ED%95%98%EA%B8%B0.cpp)|
 | 23/09/12 | 83 | 복면산 |[복면산.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/83_%EB%B3%B5%EB%A9%B4%EC%82%B0.swift)<br>[복면산.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/83_%EB%B3%B5%EB%A9%B4%EC%82%B0.cpp)|
 | 23/09/12 | 84 | 휴가 |[휴가.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/84_%ED%9C%B4%EA%B0%80.swift)<br>[휴가.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/84_%ED%9C%B4%EA%B0%80.cpp)|
+| 23/09/13 | 85 | 수식만들기 |[수식만들기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/85_%EC%88%98%EC%8B%9D%EB%A7%8C%EB%93%A4%EA%B8%B0.swift)<br>[수식만들기.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/85_%EC%88%98%EC%8B%9D%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp)|
+| 23/09/13 | 86 | 피자배달거리 |[피자배달거리.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Inflearn/86_%ED%94%BC%EC%9E%90%EB%B0%B0%EB%8B%AC%EA%B1%B0%EB%A6%AC.swift)<br>[피자배달거리.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/86_%ED%94%BC%EC%9E%90%EB%B0%B0%EB%8B%AC%EA%B1%B0%EB%A6%AC.cpp)|
 
 </details>
 
