@@ -12,9 +12,9 @@ int main() {
     int dx[] = { -1, 0, 1, 0 }, dy[] = { 0, -1, 0, 1 };
     int m, n, res = 0, unto = 0;
     cin >> m >> n;
-    int arr[m][n];
-    for(int i = 0; i < m; i++) {
-        for(int j = 0; j < n; j++) {
+    int arr[n][m];
+    for(int i = 0; i < n; i++) {
+        for(int j = 0; j < m; j++) {
             cin >> arr[i][j];
             if(arr[i][j] == 1) q.push({i, j});
             if(arr[i][j] == 0) {
@@ -36,7 +36,7 @@ int main() {
 
         for(int i = 0; i < 4; i++) {
             int xx = x + dx[i], yy = y + dy[i];
-            if(xx >= 0 && xx < m && yy >= 0 && yy < n) {
+            if(xx >= 0 && xx < n && yy >= 0 && yy < m) {
                 if(arr[xx][yy] == 0) {
                     unto--;
                     q.push({xx, yy});
