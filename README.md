@@ -194,7 +194,7 @@
 <!-- summary 아래 한칸 공백 두어야함 -->
 ## 🟡 PROGRAMMERS
 |Level     | 제목     | git |
-|:---------:|:-------------:|:---:|
+|:---------:|------------|---|
 | `1` | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | [같은 숫자는 싫어.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/Programmers/L1%2B%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4.cpp) |
 | `1` | [완주하지 못하는 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [완주하지 못하는 선수.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/Programmers/L1%2B%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.cpp) |
 | `1`| [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [폰켓몬.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/Programmers/L1%2B%ED%8F%B0%EC%BC%93%EB%AA%AC.cpp) |
@@ -220,6 +220,9 @@
 | `3` | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [디스크컨트롤러.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Programmers/L3%2B%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.swift) |
 | `3` | [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [베스트 앨범.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Programmers/L3%2B%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%9D%98%EC%83%81.swift) |
 | `3` | [이중순위우선큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [이중순위우선큐.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Programmers/L3%2B%EC%9D%B4%EC%A4%91%EC%88%9C%EC%9C%84%EC%9A%B0%EC%84%A0%ED%81%90.swift) |
+| `2` | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [구명보트.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/Programmers/L2%2B%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.cpp) |
+| `2` | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [조이스틱.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Programmers/L2%2B%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.swift) |
+| `2` | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Programmers/L2%2B%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) |
 
 </details>
 
