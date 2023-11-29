@@ -223,6 +223,7 @@
 | `2` | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [구명보트.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/Programmers/L2%2B%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.cpp) |
 | `2` | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [조이스틱.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Programmers/L2%2B%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.swift) |
 | `2` | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Programmers/L2%2B%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) |
+| `3` | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [섬 연결하기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Programmers/L3%2B%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.swift) |
 
 </details>
 
