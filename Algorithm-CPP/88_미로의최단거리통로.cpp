@@ -15,7 +15,7 @@ int main() {
     freopen("input.txt", "rt", stdin);
 
     queue<Point> q;
-    int dx[] = { -1, 0, 1, 0 }, dy[] = { 0, -1, 0, 1};
+    int dx[] = { -1, 0, 1, 0 }, dy[] = { 0, -1, 0, 1 };
     int arr[7][7];
     int min = 2147000000;
     for(int i = 0; i < 7; i++) {
