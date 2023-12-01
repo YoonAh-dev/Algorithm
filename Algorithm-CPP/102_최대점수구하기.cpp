@@ -1,8 +1,18 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
+bool cmp(pair<int, int> a, pair<int, int> b) { 
+    if(a.second == b.second) return a.first < b.first;
+    else return a.second < b.second; 
+}
+
 int main() {
+    ios_base::sync_with_stdio(false);
+
+    freopen("input.txt", "rt", stdin);
+
     int n, m, score, time;
     cin >> n >> m;
     vector<int> dy(m + 1);
@@ -10,9 +20,15 @@ int main() {
     for(int i = 0; i < n; i++) {
         cin >> score >> time;
 
-        for(int j = time; j <= m; j++) {
-            if((j - time) != 0 && dy[j - time] == 0) continue;
-            dy[j] = max(dy[j], dy[j - time] + score);
+        for(int j = m; j >= 0; j--) {
+            if(j == time) {
+                dy[j] = max(dy[j], score);
+                continue;
+            }
+
+            if(dy[j] > 0 && j + time <= m) {
+                dy[j + time] = max(dy[j + time], dy[j] + score);     
+            }
         }
     }
 
