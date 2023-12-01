@@ -11,10 +11,8 @@ int main() {
         int weight, value;
         cin >> weight >> value;
         
-        for(int j = 0; j <= limit; j++) {
-            if(j >= weight && dy[j - weight] + value > dy[j]) {
-                dy[j] = dy[j - weight] + value;
-            }
+        for(int j = weight; j <= limit; j++) {
+            dy[j] = max(dy[j - weight] + value, dy[j]);
         }
     }
 
