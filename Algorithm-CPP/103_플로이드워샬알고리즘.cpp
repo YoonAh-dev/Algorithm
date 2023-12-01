@@ -9,7 +9,7 @@ int main() {
 
     int n, m, start, end, cost;
     cin >> n >> m;
-    vector<vector<int>> map(n + 1, vector<int> (n + 1, 100));
+    vector<vector<int>> map(n + 1, vector<int> (n + 1, 5000));
 
     for(int i = 0; i < m; i++) {
         cin >> start >> end >> cost;
@@ -20,7 +20,6 @@ int main() {
         for(int i = 1; i <= n; i++) {
             for(int j = 1; j <= n; j++) {
                 if(i == j) map[i][j] = 0;
-                if(map[i][k] == 100 || map[k][j] == 100) continue;
                 map[i][j] = min(map[i][j], map[i][k] + map[k][j]);
             }
         }
