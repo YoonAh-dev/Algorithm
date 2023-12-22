@@ -240,6 +240,7 @@
 | `2` | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Programmers/L2%2B%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.swift) |
 | `3` | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | [섬 연결하기.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Programmers/L3%2B%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.swift) |
 | `3` | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | [N으로 표현.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Programmers/L3%2BN%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.swift) |
+| `3` | [정수삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | [정수삼각형.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/Programmers/L3%2B%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.cpp) |
 </details>
 
 <details>
