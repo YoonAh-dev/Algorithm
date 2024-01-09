@@ -244,6 +244,7 @@
 | `3` | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | [등굣길.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/Programmers/L3%2B%EB%93%B1%EA%B5%A3%EA%B8%B8.cpp) |
 | `4` | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843) | [사칙연산.swift](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-Swift/Algorithm-Swift/Programmers/L4%2B%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.swift) |
 | `4` | [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | [도둑질.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/Programmers/L4%2B%EB%8F%84%EB%91%91%EC%A7%88.cpp) |
+| `2` | [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [타겟넘버.cpp](https://github.com/YoonAh-dev/Algorithm/blob/main/Algorithm-CPP/Programmers/L2%2B%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.cpp) |
 </details>
 
 <details>
