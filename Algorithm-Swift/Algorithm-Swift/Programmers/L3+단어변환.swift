@@ -41,3 +41,6 @@ func solution(_ begin: String, _ target: String, _ words: [String]) -> Int {
     if res == 2_147_000_000 { return 0 }
     else { return res }
 }
+
+let val: [String: Int] = []
+val.sorted(by: <#T##((key: String, value: Int), (key: String, value: Int)) throws -> Bool#>)
